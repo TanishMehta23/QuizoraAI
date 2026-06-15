@@ -1,8 +1,8 @@
-# 📚 Quizora AI
+# 📚 QuizoraAI
 
 > Transform PDFs into Interactive Learning with AI
 
-Quizora AI is an AI-powered learning platform that converts PDF documents into interactive quizzes using **Google Gemini AI**, **Python**, and **Streamlit**. Upload your notes, select difficulty, and instantly generate MCQs with explanations.
+QuizoraAI is an AI-powered learning platform that converts PDF documents into interactive quizzes using **Google Gemini AI**, **Python**, and **Streamlit**. Upload your notes, select difficulty, and instantly generate MCQs with explanations.
 
 ---
 
@@ -79,7 +79,7 @@ Quizora AI is an AI-powered learning platform that converts PDF documents into i
 ## 📂 Project Structure
 
 ```text
-Quizora-AI/
+QuizoraAI/
 │
 ├── app.py
 ├── requirements.txt
@@ -100,8 +100,8 @@ Quizora-AI/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Quizora-AI.git
-cd Quizora-AI
+git clone https://github.com/YOUR_USERNAME/QuizoraAI.git
+cd QuizoraAI
 ```
 
 ---
@@ -194,6 +194,6 @@ If you found this project useful, please consider giving it a ⭐ on GitHub.
 
 ---
 
-# Quizora AI
+# QuizoraAI
 
 ### Transform PDFs into Interactive Learning 🚀
